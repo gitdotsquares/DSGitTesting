@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <Say>Greetings Swift developer!  Since you like Swift I thought you might enjoy this
-    </Say>
-        <Play>http://ds07.projectstatus.co.uk/devicetracker/audio/gone.mp3</Play>
-</Response>
